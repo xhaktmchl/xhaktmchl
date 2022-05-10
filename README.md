@@ -1,4 +1,4 @@
-### 안녕하세요 성장하는 개발자 토마스최입니다.👋
+### 안녕하세요 소통하며 성장하는 개발자 토마스최입니다.👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxhaktmchl)](https://hits.seeyoufarm.com)
 <!--
 **xhaktmchl/xhaktmchl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
