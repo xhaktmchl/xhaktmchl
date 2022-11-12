@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 <img src="http://mazandi.herokuapp.com/api?handle={xhaktmrb}&theme=warm"/>
 <a href="https://opgc.me/#/users/xhaktmchl" target="_blank"><img src="https://api.opgc.me/githubs/users/xhaktmchl/tag/?theme=basic" /></a> <!-- OPGC 코드 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xhaktmchl&layout=compact)](https://github.com/xhaktmchl)
-[https://www.ilovegithub.com/user/login?inputLogin=xhaktmchl]
 
 # Language
 <a href="" target="_blank"><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/></a>
