@@ -2,8 +2,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxhaktmchl)](https://hits.seeyoufarm.com)  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Thomas%20Choi&fontSize=90&fontColor=FFFFFF&animation=twinkling)
 # Introduce
-- I'm a backend developer. I'm interested in SpringBoot.
-- Also I studied AI.
+- I'm a backend developer. I'm interested in SpringBoot;
+- Also I'm interested in AI;
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=xhaktmchl&show_icons=true&hide_border=true)](https://github.com/xhaktmchl)
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xhaktmrb)
